@@ -1,5 +1,7 @@
 # 聆雪AI - Lucenette
 
+<img src="./avatar.jpg" width="300" />
+
 ---
 
 ## 第一章：总体架构概览
