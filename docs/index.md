@@ -64,3 +64,13 @@ docs/
 - 准备接包：03-standards/ → 对应 Mxx 文档 → 相关 01-contracts/；
 - 提出新想法：rfcs/。
 
+## 根目录文件
+
+| 文件 | 用途 |
+|------|------|
+| [../CONTRIBUTING.md](../CONTRIBUTING.md) | 贡献指南（如何接包） |
+| [../CODE_OF_CONDUCT.md](../CODE_OF_CONDUCT.md) | 行为准则 |
+| [../SECURITY.md](../SECURITY.md) | 安全策略与漏洞报告渠道 |
+| [../CHANGELOG.md](../CHANGELOG.md) | 版本更新日志 |
+| [../README_EN.md](../README_EN.md) | 英文简介 |
+

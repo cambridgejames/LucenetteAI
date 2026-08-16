@@ -1,0 +1,7 @@
+# 代码所有者配置：按目录指定 review 负责人。
+# 当前项目由维护者统一总装；接入真实 GitHub 用户名后取消注释对应行。
+# 语法：<路径模式> <@用户名或团队>
+
+# *                    @lucenette-maintainer
+# docs/01-contracts/   @lucenette-contracts
+# docs/02-modules/     @lucenette-modules

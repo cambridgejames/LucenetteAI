@@ -6,6 +6,8 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE) ![Status](https://img.shields.io/badge/Status-%E8%AE%BE%E8%AE%A1%E9%98%B6%E6%AE%B5-orange) ![Python](https://img.shields.io/badge/Python-3.12+-3776AB) ![Docs](https://img.shields.io/badge/Docs-v0.5-green)
 
+> 📖 English introduction: [README_EN.md](./README_EN.md)
+
 ---
 
 > ⚠️ **项目现状声明**：本项目当前处于**设计阶段**。完整架构已文档化（见 [docs/](docs/)），但**全部功能模块尚未实现**（仓库中的少量代码为早期原型测试脚本，不代表最终实现，后续将整体重写）。欢迎阅读设计文档、参与方案讨论，或领取工作包参与实现。
@@ -72,7 +74,8 @@ graph TB
 
 - 💡 有新想法 → 到 [docs/rfcs/](docs/rfcs/) 提交提案，先讨论后动工；
 - 🛠 想动手实现 → 阅读 [CONTRIBUTING.md](CONTRIBUTING.md)，从 [docs/04-delivery/work-packages.md](docs/04-delivery/work-packages.md) 认领工作包；
-- ✍️ 想完善设计 → 各模块文档按 [docs/03-standards/module-doc-template.md](docs/03-standards/module-doc-template.md) 细化。
+- ✍️ 想完善设计 → 各模块文档按 [docs/03-standards/module-doc-template.md](docs/03-standards/module-doc-template.md) 细化；
+- 🤝 社区行为规范见 [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)；安全漏洞报告走 [SECURITY.md](SECURITY.md)；版本历史见 [CHANGELOG.md](CHANGELOG.md)。
 
 ## 路线图
 
